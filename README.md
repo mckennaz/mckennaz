@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Patient Station**
 
-- 👨‍💻 All of my projects are available at [kgage.netlify.app](kgage.netlify.app)
-
 - 💬 Ask me about **Nextjs**
 
 <h3 align="left">Connect with me:</h3>
