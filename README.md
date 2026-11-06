@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm McKenna</h1>
-<h3 align="center">I am a passionate Fullstack Software Engineer</h3>
+<h1 align="center">Hi World👋, I'm McKenna</h1>
+<h3 align="center">I am a passionate Fullstack Software Engineer. That specializes in Python, HTML, CSS, and Javascript.</h3>
 
 - 🔭 I’m currently working on **Patient Station**
 
